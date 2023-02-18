@@ -1,0 +1,9 @@
+streamlit-lottie
+request
+Python 3.11.1
+streamlit
+matplotlib
+folium
+base64
+sklearn
+numpy
